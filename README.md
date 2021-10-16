@@ -1,0 +1,2 @@
+# Ontology-to-Graph-for-Oral-Health-Disease
+This is my playground for exploring Java Springbook Rest API and React features.   The objective is to create an application that receives an RDF file representing a Dental Health &amp; Disease Ontology and allows its visualization as a graph for further editing and enrichment with specific semantic knowledge. To render graphs in React I will use the vis-react package.
